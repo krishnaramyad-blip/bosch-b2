@@ -1,3 +1,7 @@
 'date' :: chnage1
+<<<<<<< HEAD
 date2 :: change2
 date3 :: changes3
+=======
+date :: working with branches
+>>>>>>> dev
