@@ -2,3 +2,4 @@ date :: working with branches
 one more change in master branch
 file 2 change to merge with dev3
 working in dev3 branch
+redo the merge dev3
