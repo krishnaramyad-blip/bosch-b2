@@ -10,3 +10,4 @@ date :: working with branches
 new change in dev2
 >>>>>>> dev2
 modify file
+Last activity : change 1
