@@ -11,3 +11,4 @@ new change in dev2
 >>>>>>> dev2
 modify file
 Last activity : change 1
+Last activity : change 2
