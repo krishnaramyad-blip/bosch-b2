@@ -5,3 +5,5 @@ working in dev3 branch
 redo the merge dev3
 merge to target
 Fixed the conflictstash demo
+Fixed the conflictmodify notes2.txt file
+Add the stashed code
