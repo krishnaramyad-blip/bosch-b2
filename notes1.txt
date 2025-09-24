@@ -2,6 +2,10 @@
 <<<<<<< HEAD
 date2 :: change2
 date3 :: changes3
+<<<<<<< HEAD
 =======
 date :: working with branches
 >>>>>>> dev
+=======
+new change in dev2
+>>>>>>> dev2
