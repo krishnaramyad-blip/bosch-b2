@@ -7,3 +7,4 @@ merge to target
 Fixed the conflictstash demo
 Fixed the conflictmodify notes2.txt file
 Add the stashed code
+Addes this chnage from VScode
